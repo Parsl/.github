@@ -67,6 +67,7 @@ This aspect of our community is still under development.
 
 Community Champions Committee Members: Sophie Bui (community manager), Logan Ward (Materials Science, Machine Learning)
 
+## DEI Manager
 To further our progress in championing diversity, equity, and inclusion (DEI), Parsl’s dedicated community manager (CM) supports and facilitates meaningful engagement with current and future members within our open-source software community. This role is crucial in promoting DEI within Parsl, ensuring all community members feel welcomed, valued, and respected. The community manager is here to listen, guide, and advocate for you. Some ways the CM does this include:
 
 - **Create and maintain DEI policies**, such as the Parsl Code of Conduct, by working closely with leadership, community champions, and contributors to clearly outline expectations and guidelines for behavior and community interactions.
